@@ -1,0 +1,46 @@
+{
+  "customer": [
+    {
+      "id": "1",
+      "fName": "Prachi",
+      "lName": "Joshi",
+      "email": "prachi1219@gmail.com"
+    },
+    {
+      "id": "2a44",
+      "fName": "Mugdha",
+      "lName": "Joshi",
+      "email": "joshimugdha20@gmail.com"
+    },
+    {
+      "id": "9fd0",
+      "fName": "Shital",
+      "lName": "Pathak",
+      "email": "shital@gmail.com"
+    },
+    {
+      "id": "2932",
+      "fName": "Sneha",
+      "lName": "Keskar",
+      "email": "sneha@gmail.com"
+    },
+    {
+      "id": "5982",
+      "fName": "Anushka",
+      "lName": "Pathak",
+      "email": "anushka@gmail.com"
+    },
+    {
+      "id": "cc33",
+      "fName": "Prachi",
+      "lName": "Joshi",
+      "email": "prachi1912@gmail.com"
+    },
+    {
+      "id": "0f91",
+      "fName": "a",
+      "lName": "a",
+      "email": "a"
+    }
+  ]
+}
